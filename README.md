@@ -8,5 +8,3 @@
 - 👀 I’m interested in / PHP, Javascript, React 
 - 🌱 I’m currently learning / React
 - 👨🏼‍💻 Stil on school :)
-
-Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
