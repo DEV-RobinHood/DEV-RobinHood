@@ -1,6 +1,6 @@
 ### Hi there, I'm Robbin Hood 👋
 
-### Languages and Tools
+### Languages
 
 - 👋 Hi, I’m @DevRobbinHood
 - 👀 I’m interested in / PHP, Javascript, React 
