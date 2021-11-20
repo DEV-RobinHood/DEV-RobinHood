@@ -7,4 +7,4 @@
 
 I'm a software developer who is passionate about creating technology. Some technology i enjoy working with include Javascript, PHP, Java, Python, React-native & ReactJS
 
-- 🔭 I'm a software developer in, the Netherlands
+- 🔭 I'm a full-stack software developer in, the Netherlands
